@@ -4,12 +4,17 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
+    //variable pour le mouvement
     public float moveSpeed;
     private bool playerMoving;
     private float playerDirX;
     private float playerDirZ;
     private Vector3 lastMove;
 
+    //variable pour eviter les doublons
+    private static bool heroineExist;
+
+    //variable de reference
     public GameObject heroine;
     private Animator heroineAnim;
     private SpriteRenderer heroineSprite;
@@ -22,15 +27,27 @@ public class PlayerController : MonoBehaviour {
         //donner les information necessaire a l'animator.
         heroine = GameObject.Find("Heroine");
         heroineAnim = heroine.GetComponent<Animator>();
+
         // On récupére aussi la réference du sprite Renderer pour gerer les flips lorsque le personage 
         //fait face a l'est (on utilise pas de sprite face a l'est)
         //Note: Pas besoin de changer les option du spriteRenderer pour IDLE puisqu'il suit toujours
         //un mouvement qui done a l'option flipx la bonne valeur.
         heroineSprite = heroine.GetComponent<SpriteRenderer>();
 
-
         //On provoque le mouvement par force, on a donc besoin de la réference du "Rigid body"
         heroineRigidBody = GetComponent<Rigidbody>();
+
+        //si le personnage n'existe pas sur la map chargé, on demande a unity de ne jamais détruire le personnage pour qu'il soit placé dans la map suivante.
+        //si le personnage existe sur la map chargé, on détruit le personnage de la carte précedente qui s'y rend.
+        if (!heroineExist)
+        {
+            heroineExist = true;
+            DontDestroyOnLoad(transform.gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
     }
 	
 	// Update is called once per frame
