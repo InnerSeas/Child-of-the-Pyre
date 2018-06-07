@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: f16d78e2ea786c44faaf80fe48af4f30
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coupe1_tenue1_0_hit_NE-35x64_0
+    21300002: coupe1_tenue1_0_hit_NE-35x64_1
+    21300004: coupe1_tenue1_0_hit_NE-35x64_2
+    21300006: coupe1_tenue1_0_hit_NE-35x64_3
+    21300008: coupe1_tenue1_0_hit_NE-35x64_4
+    21300010: coupe1_tenue1_0_hit_NE-35x64_5
+    21300012: coupe1_tenue1_0_hit_NE-35x64_6
+    21300014: coupe1_tenue1_0_hit_NE-35x64_7
+    21300016: coupe1_tenue1_0_hit_NE-35x64_8
+    21300018: coupe1_tenue1_0_hit_NE-35x64_9
+    21300020: coupe1_tenue1_0_hit_NE-35x64_10
+    21300022: coupe1_tenue1_0_hit_NE-35x64_11
+    21300024: coupe1_tenue1_0_hit_NE-35x64_12
+    21300026: coupe1_tenue1_0_hit_NE-35x64_13
+    21300028: coupe1_tenue1_0_hit_NE-35x64_14
+    21300030: coupe1_tenue1_0_hit_NE-35x64_15
+    21300032: coupe1_tenue1_0_hit_NE-35x64_16
+    21300034: coupe1_tenue1_0_hit_NE-35x64_17
+    21300036: coupe1_tenue1_0_hit_NE-35x64_18
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84.85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8730bebaaebc0034d86b7cba6104b8de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f9e3dd307f6694e80df29a0507be52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4711336db7f2fc343a7c4dfdb5749688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b20e83276e1cb469aa92422e61d637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca99e7212b46f444691d0cc7ee3c8aef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9fbf62f050f8541b44cb461ebc71c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea674a1d840da045aa3721660a320a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_7
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b5a63ee9c7af642840306a0a2b9c93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454f598200b2cdc4e8466067956c5f3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02b1a7896769c842a8c247000169b7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d49cf86a125244f83ce1108d5fe2d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360e79880a7994d4ca6114f08b37a643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ee587df9aae7f46a59c39ec6db13cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce3826d9813ce04caadef6b44dea4ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206e7860394ed6f4da25a228b2298f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_15
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0f8297a0dba09469cab8eb7ce8dc01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e273743273455174c9030e732895d9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_17
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24683eeb0ec3334f93b7bd6a1352032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_hit_NE-35x64_18
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 0
+        width: 62.63158
+        height: 64
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3323813984dfb9a4db5c03780dbe41ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 36cd61241223eef47ab4cc8a6e317959
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
