@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 382ab78c7b0f3004cae69beebfa486ed
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coupe1_tenue1_0_falldown_SE-90x124_0
+    21300002: coupe1_tenue1_0_falldown_SE-90x124_1
+    21300004: coupe1_tenue1_0_falldown_SE-90x124_2
+    21300006: coupe1_tenue1_0_falldown_SE-90x124_3
+    21300008: coupe1_tenue1_0_falldown_SE-90x124_4
+    21300010: coupe1_tenue1_0_falldown_SE-90x124_5
+    21300012: coupe1_tenue1_0_falldown_SE-90x124_6
+    21300014: coupe1_tenue1_0_falldown_SE-90x124_7
+    21300016: coupe1_tenue1_0_falldown_SE-90x124_8
+    21300018: coupe1_tenue1_0_falldown_SE-90x124_9
+    21300020: coupe1_tenue1_0_falldown_SE-90x124_10
+    21300022: coupe1_tenue1_0_falldown_SE-90x124_11
+    21300024: coupe1_tenue1_0_falldown_SE-90x124_12
+    21300026: coupe1_tenue1_0_falldown_SE-90x124_13
+    21300028: coupe1_tenue1_0_falldown_SE-90x124_14
+    21300030: coupe1_tenue1_0_falldown_SE-90x124_15
+    21300032: coupe1_tenue1_0_falldown_SE-90x124_16
+    21300034: coupe1_tenue1_0_falldown_SE-90x124_17
+    21300036: coupe1_tenue1_0_falldown_SE-90x124_18
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84.85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba635b5f34971a4db594e1c0a125490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_1
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23ae260f53216c48a948bd7d8cd3bfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286eea5b8e953d54181f0c8b67509860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043b3e61d162f484593c985c3bd16de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_4
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856c2512c5c0c54438a42d906adf4911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9113a0dd6d72447a56e9061df99892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_6
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a57b7c53548bd846b697b6d63e54713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389d5dc6f8939543a99d738a614c8ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_8
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cd91bc327ceb74fb5f5905d8f8ec8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_9
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcce7489210fc0d41b336fff44d15382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_10
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206a532b9b85c84ab0be90651922333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_11
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39d40047daef346ac64984f7971f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_12
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3d710391be314b863e3727c8d7eda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_13
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3975a97da7fd8784cbd231b5e7e6f673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_14
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a462a4f41d07442b9eab7e64ba1dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_15
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f225563cd5615842a9f2892a3c99396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_16
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da8c6b9e7224dc4fa9148b4671d8421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_17
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484a9bc4e38a944da201d3689aec46a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_falldown_SE-90x124_18
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 0
+        width: 113.68421
+        height: 124
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b5f18b8236c9446bbe923425923023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45382ed422b01e3478129092ae97394d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

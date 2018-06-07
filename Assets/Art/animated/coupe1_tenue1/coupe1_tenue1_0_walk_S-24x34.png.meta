@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 48e2457edd0333f46a1daf6afc79f9fe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: coupe1_tenue1_0_walk_S-24x34_0
+    21300002: coupe1_tenue1_0_walk_S-24x34_1
+    21300004: coupe1_tenue1_0_walk_S-24x34_2
+    21300006: coupe1_tenue1_0_walk_S-24x34_3
+    21300008: coupe1_tenue1_0_walk_S-24x34_4
+    21300010: coupe1_tenue1_0_walk_S-24x34_5
+    21300012: coupe1_tenue1_0_walk_S-24x34_6
+    21300014: coupe1_tenue1_0_walk_S-24x34_7
+    21300016: coupe1_tenue1_0_walk_S-24x34_8
+    21300018: coupe1_tenue1_0_walk_S-24x34_9
+    21300020: coupe1_tenue1_0_walk_S-24x34_10
+    21300022: coupe1_tenue1_0_walk_S-24x34_11
+    21300024: coupe1_tenue1_0_walk_S-24x34_12
+    21300026: coupe1_tenue1_0_walk_S-24x34_13
+    21300028: coupe1_tenue1_0_walk_S-24x34_14
+    21300030: coupe1_tenue1_0_walk_S-24x34_15
+    21300032: coupe1_tenue1_0_walk_S-24x34_16
+    21300034: coupe1_tenue1_0_walk_S-24x34_17
+    21300036: coupe1_tenue1_0_walk_S-24x34_18
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 84.85
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9bc3bcc7c1dc946aeef88387cbafe6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decadd4acb577d74fa0a1128fead626d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878edd53eb1f569499908049a74e90fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a95df2f6f73d4a86fd7301cada6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890dfcd8a9c07dd4ba64d6429892f2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547ecdafd8d41e44993365511d073062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b05dc108bfc3d419911c691ffe29a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab4671df493c54081892dcbe6927fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d24f012bb2257a4c8b12285657db314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f557279652912848b6892d1071fa9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7204bc063c47ee549bec140991937e7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f16c9210dc40e46927f79719b98199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2af3aa2de71d4e4abf976ed8a5f2eb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcfe15faaad7bb4b851527a1fb2213f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0365283a4e8ac9458c77eb793346c57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_15
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521bcf9f67058445867a6ccc62eb020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5484f0e3708f654468674ac383eaad89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_17
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edd7ec2262460041a4bde3937773da0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coupe1_tenue1_0_walk_S-24x34_18
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 31.578947
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb947473d3a5fb448ac4d90ec9b71f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a24c370ec7e432c4a8449d72126e3f32
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
