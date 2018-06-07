@@ -34,8 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-<<<<<<< HEAD
-=======
 Library/assetDatabase3
 Library/metadata/00/00000000000000002000000000000000
 Library/metadata/00/00000000000000003000000000000000
@@ -216,4 +214,7 @@ Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
 Library/ScriptAssemblies/BuiltinAssemblies.stamp
 Library/ScriptMapper
 Library/shadercompiler-UnityShaderCompiler.exe0.log
->>>>>>> a539f295387906fec90f9ccde338caec26ed66d8
+Library/metadata/00/00000000000000003000000000000000
+Library/InspectorExpandedItems.asset
+Library/CurrentLayout.dwlt
+Library/assetDatabase3
