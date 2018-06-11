@@ -22,7 +22,7 @@ TextureImporter:
     21300034: coupe1_tenue1_0_idle_S-39x27_17
     21300036: coupe1_tenue1_0_idle_S-39x27_18
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 4
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -62,21 +62,18 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 84.85
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 1
+  spritePixelsToUnits: 84.85
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
-  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - serializedVersion: 2
-    buildTarget: DefaultTexturePlatform
+  - buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -86,8 +83,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: Standalone
+  - buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -104,390 +100,270 @@ TextureImporter:
       name: coupe1_tenue1_0_idle_S-39x27_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 7
         y: 0
-        width: 39
-        height: 27
+        width: 15
+        height: 22
       alignment: 2
       pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 4d75b6ca499295349a5d8d449d32edb0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_1
       rect:
         serializedVersion: 2
-        x: 39
+        x: 46
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: a5ed1b81db881564693585e7a5e21f9d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_2
       rect:
         serializedVersion: 2
-        x: 78
+        x: 85
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 86681484d8b18f2479447cd5426e9db1
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_3
       rect:
         serializedVersion: 2
-        x: 117
+        x: 124
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 13ea4a1f10fbafe45aa17269418981fe
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_4
       rect:
         serializedVersion: 2
-        x: 156
+        x: 163
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 25
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 6954697d17767ca44b669eaf15f74e84
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_5
       rect:
         serializedVersion: 2
-        x: 195
+        x: 202
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 0643b5fdb11f3d943a036eda9b5d7d10
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_6
       rect:
         serializedVersion: 2
-        x: 234
+        x: 241
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7f1142ae41e88bb428d353bc5a5066b3
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_7
       rect:
         serializedVersion: 2
-        x: 273
+        x: 280
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 1ca85971a246d5a41824235cc9802c40
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_8
       rect:
         serializedVersion: 2
-        x: 312
+        x: 319
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: b4531d7ac9acf0840a30f47c3088f18c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_9
       rect:
         serializedVersion: 2
-        x: 351
+        x: 357
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 16
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 58c90112b9757f74b9e573dba8007f42
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_10
       rect:
         serializedVersion: 2
-        x: 390
+        x: 396
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 16
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 28b339a1fc61af542aab51b61c6958ca
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_11
       rect:
         serializedVersion: 2
-        x: 429
+        x: 435
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 16
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 49f253f7e820ec44995bf734f78869e8
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_12
       rect:
         serializedVersion: 2
-        x: 468
+        x: 474
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 16
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 7e9259999dafb5c4fbb2bacc7464ed19
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_13
       rect:
         serializedVersion: 2
-        x: 507
+        x: 513
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 9d0c8d7409771c44fb4e47ba521973bb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_14
       rect:
         serializedVersion: 2
-        x: 546
+        x: 552
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 17854b5bc0caca1449f929691c919ca4
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_15
       rect:
         serializedVersion: 2
-        x: 585
+        x: 591
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: ce3fbdb9cc46cb94c9c6a4380c817c54
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_16
       rect:
         serializedVersion: 2
-        x: 624
+        x: 630
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: fc0657c8ea340c54fb3c63af88608a0f
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_17
       rect:
         serializedVersion: 2
-        x: 663
+        x: 669
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 29ace51c17f97dc4fb5c5ea5d258b8a0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: coupe1_tenue1_0_idle_S-39x27_18
       rect:
         serializedVersion: 2
-        x: 702
+        x: 708
         y: 0
-        width: 39
-        height: 27
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
-      bones: []
-      spriteID: 9222ef4705e49a841b340e446577040b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
-    bones: []
-    spriteID: c75638800dc269c44a32338f3f3e33ed
-    vertices: []
-    indices: 
-    edges: []
-    weights: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
