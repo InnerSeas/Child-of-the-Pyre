@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/in_hero_hero.unity
+- path: Assets/Scenes/mourning_blizzard.unity
   isLoaded: 1
   isActive: 1
